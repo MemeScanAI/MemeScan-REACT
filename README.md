@@ -59,7 +59,7 @@
 
 For any issues or questions, feel free to reach out:
 
-- **Email**: support@memescan.ai
+- **Email**: support@memecoinscan.io
 - **Twitter**: [@memescan](https://twitter.com/memescan)
 
 ---
